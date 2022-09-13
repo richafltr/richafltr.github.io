@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F404","\u002Fanimoca-privacy-policy","\u002Fanimoca-terms","\u002Ffaq-first-trip","\u002Ffaq-mint","\u002Ffaq","\u002F","\u002Fnft-purchase-agreement","\u002Fobelisk","\u002Fterms","\u002Fworld","\u002Fodk","\u002Flicense"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
